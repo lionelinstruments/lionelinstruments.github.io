@@ -1,0 +1,21 @@
+.products {
+  padding-top: 30px;
+  text-align: center;
+}
+.products .col-sm-3 {
+  margin-top: 50px;
+  color: #3333CC;
+}
+.products .col-sm-3 span {
+  text-decoration: underline;
+  font-size: 150%;
+}
+#press-pro-20-pic {
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+sup {
+  padding-bottom: 6px;
+  border-bottom: 2px solid #3333CC;
+  font-size: 100%;
+}
